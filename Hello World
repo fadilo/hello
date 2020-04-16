@@ -1,4 +1,6 @@
 #include<stdio.h>
-Int main(void);
-Printf("Hello, World\n");
 
+Int main(void)
+{
+Printf("Hello, World\n");
+}
